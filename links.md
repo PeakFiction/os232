@@ -8,12 +8,12 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- Markdown Cheatsheet that helps me with writing better Markdown texts
 <br>
 
-*[OS Book Collection](https://www.os-book.com/OS10/)
+* [OS Book Collection](https://www.os-book.com/OS10/)
 <br>
 
-*[Linux from Beginning](https://youtu.be/wBp0Rb-ZJak)
+* [Linux from Beginning](https://youtu.be/wBp0Rb-ZJak)
 <br>
 
-*[Motivation Song](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
+* [Motivation Song](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
 <br>
 <hr>
