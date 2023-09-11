@@ -1,7 +1,3 @@
----
-permalink: LINKS/
----
-
 # LINKS
 
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) --- 
@@ -10,5 +6,14 @@ These commands will help you list PCI devices, view information about your CPU, 
 <br>
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- Markdown Cheatsheet that helps me with writing better Markdown texts
+<br>
+
+*[OS Book Collection](https://www.os-book.com/OS10/)
+<br>
+
+*[Linux from Beginning](https://youtu.be/wBp0Rb-ZJak)
+<br>
+
+*[Motivation Song](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
 <br>
 <hr>
