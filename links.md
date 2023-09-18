@@ -1,3 +1,6 @@
+---
+permalink: LINKS/
+---
 # LINKS
 
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) --- 
