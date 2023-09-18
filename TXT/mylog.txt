@@ -8,3 +8,12 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 10 L05 QUIZ
 ZCZC W00 60 L09 Weekly Assignments
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 99 L43 Ranking People's Links
+ZCZC W02 60 L31 Installing Linux VM on my Home PC
+ZCZC W02 99 L10 Assignment 02 Related
+ZCZC W02 15 L26 KeyGen Related to Assignment 02
+ZCZC W02 99 L82 Reading OS Coursebook
+ZCZC W02 99 L70 Studying for Other Courses
+ZCZC W02 99 L73 Finishing Baldur's Gate 3
