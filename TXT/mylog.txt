@@ -17,3 +17,7 @@ ZCZC W02 15 L26 KeyGen Related to Assignment 02
 ZCZC W02 99 L82 Reading OS Coursebook
 ZCZC W02 99 L70 Studying for Other Courses
 ZCZC W02 99 L73 Finishing Baldur's Gate 3
+ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 99 L05 Studying for Quiz
+ZCZC W03 12 L05 Quiz
+ZCZC W03 50 L13 Assignment 03 related
