@@ -22,6 +22,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Creating a Bash Script](https://youtu.be/p9sJGwGsO3E?si=HsUAeB-sFghoRKfQ)
 <br>
+
 * [Motivation Song](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
 <br>
 <hr>
