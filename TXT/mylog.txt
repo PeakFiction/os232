@@ -1,13 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 20 L00 General, etc.
-ZCZC W00 20 L01 SCELE/Discord related
-ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
-ZCZC W00 10 L03 GitHub related
-ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 10 L05 QUIZ
-ZCZC W00 60 L09 Weekly Assignments
+ZCZC W05 50 L15 Assignment #05 Related
+ZCZC W05 99 L05 Quiz related including studying
+ZCZC W05 45 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 20 L73 Overwatch 2 Competitive
+ZCZC W04 50 L14 Assignment #04 Related
+ZCZC W04 10 L40 TXT/ related in general.
+ZCZC W04 99 L70 Studying for other courses
+ZCZC W04 99 L82 Reading Book and PPT for OS
+ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 99 L05 Studying for Quiz
+ZCZC W03 12 L05 Quiz
+ZCZC W03 50 L13 Assignment 03 related
 ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 99 L43 Ranking People's Links
@@ -17,15 +22,10 @@ ZCZC W02 15 L26 KeyGen Related to Assignment 02
 ZCZC W02 99 L82 Reading OS Coursebook
 ZCZC W02 99 L70 Studying for Other Courses
 ZCZC W02 99 L73 Finishing Baldur's Gate 3
-ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related
-ZCZC W03 99 L05 Studying for Quiz
-ZCZC W03 12 L05 Quiz
-ZCZC W03 50 L13 Assignment 03 related
-ZCZC W04 20 L21 Trying out text editors and Bashing
-ZCZC W04 99 L73 Overwatch 2 Competitive
-ZCZC W04 10 L32 Watching more Linux Tutorials
-ZCZC W04 50 L14 Assignment #04 Related
-ZCZC W04 10 L40 TXT/ related in general.
-ZCZC W04 99 L70 Studying for other courses
-ZCZC W04 99 L82 Reading Book and PPT for OS
-
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L05 QUIZ
+ZCZC W00 60 L09 Weekly Assignments
