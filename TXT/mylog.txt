@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W10 99 L05 Quiz Related
+ZCZC W10 90 L40 TXT/Related in general
+ZCZC W10 10 L15 Assignment #10 Related
 ZCZC W09 99 L05 Quiz Related
 ZCZC W09 90 L73 Overwatch 2 Competitive Grind
 ZCZC W09 99 L15 Assignment #09 Related
